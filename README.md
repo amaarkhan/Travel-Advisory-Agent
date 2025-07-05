@@ -200,9 +200,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/Travel-Advisory-Agent/issues)
 - **Documentation**: [Wiki](https://github.com/yourusername/Travel-Advisory-Agent/wiki)
-- **Email**: amaarkhan25@gmail![Screenshot 2025-07-06 015048](https://github.com/user-attachments/assets/c2e35fb8-09cb-4333-974e-0f33500c65bf)
+- **Email**: amaarkhan25@gmail.com![Screenshot 2025-07-06 015048](https://github.com/user-attachments/assets/c2e35fb8-09cb-4333-974e-0f33500c65bf)
 ![Screenshot 2025-07-06 014737](https://github.com/user-attachments/assets/b76b8a08-9acf-4791-9da8-bf262d545c94)
-.com
+
 
 ---
 
